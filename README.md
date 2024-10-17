@@ -14,3 +14,7 @@ There are 3 plug-ins that can be used:
 There is a Mac installer in the repository - `Audio Plugin Installer.pkg`. You can download it, run it and the plugins will be installed in Mac's Audio Unit folder. Otherwise, follow [this tutorial here](https://help.ableton.com/hc/en-us/articles/209068929-Using-AU-and-VST-plug-ins-on-macOS).
 
 For Windows, the plug-ins would need to be built to VST3, sorry!
+
+## More Info
+
+[Audio Plug-In Development Presentation.pdf](https://github.com/user-attachments/files/17416403/Audio.Plug-In.Development.Presentation.pdf)
